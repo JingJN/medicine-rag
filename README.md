@@ -1,4 +1,4 @@
-# MSL 问答 RAG Demo
+# MSL(Medical Science Liaison) 问答 RAG Demo
 
 此 demo 模拟医药公司场景：医生通过微信或邮件询问药品相关专业问题，MSL 不再手动翻说明书、PPT 和文献摘要，而是由 RAG 脚本在本地知识库中秒级检索并生成可审阅答复。
 
